@@ -2,3 +2,4 @@ Git commands even a monkey can understand
 
 add more information
 - info has been deleted
+2nd bold text
